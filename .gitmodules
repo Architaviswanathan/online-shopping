@@ -1,0 +1,9 @@
+[submodule "admin"]
+	path = admin
+	url = https://github.com/Architaviswanathan/online-admin-panel.git
+[submodule "css"]
+	path = css
+	url = https://github.com/Architaviswanathan/online-shopping-css.git
+[submodule "product_images"]
+	path = product_images
+	url = https://github.com/Architaviswanathan/online-shopping-assets.git
